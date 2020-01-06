@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 i modify
 other modify
 
+=======
+i modify
+>>>>>>> branch1
